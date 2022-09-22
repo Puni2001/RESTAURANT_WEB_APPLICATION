@@ -1,4 +1,3 @@
-
 #RESTAURANT WEB APPLICATION | MODERN UI & UX
   
   - The ideal restaurant website provides menus, locations, opening times,
